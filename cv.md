@@ -1,6 +1,6 @@
-#1 Alexey
-##2 my github: @AtesiT
-###3 I want to become a programmer
+# 1 Alexey
+## 2 my github: @AtesiT
+### 3 I want to become a programmer
 __4 I'm new here__
 **5 console.log("Example")**
 *6 -*
