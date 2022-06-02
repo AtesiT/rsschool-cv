@@ -1,8 +1,8 @@
-Alexey
-my github: @AtesiT
-I want to become a programmer
-I'm new here
-<!-- console.log("Example") -->
-<!-- - -->
-<!-- I'm a graduate with sysadmin diplom -->
-<!-- I think i have A2 -->
+1 Alexey
+2 my github: @AtesiT
+3 I want to become a programmer
+4 I'm new here
+5 console.log("Example")
+6 -
+7 I'm a graduate with sysadmin diplom
+8 I think i have A2
