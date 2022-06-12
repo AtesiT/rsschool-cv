@@ -1,2 +1,2 @@
 # rsschool-cv
-https://atesit.github.io/rsschool-cv/cv 
+the link: https://atesit.github.io/rsschool-cv/cv 
