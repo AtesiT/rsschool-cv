@@ -59,6 +59,24 @@ html {
     width: 50%;
 }
 
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #5d7260;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}
+
 @media (max-width: 768px) {
     .section {
       width: 100%;
